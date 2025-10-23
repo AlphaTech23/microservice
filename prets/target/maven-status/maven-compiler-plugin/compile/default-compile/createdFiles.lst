@@ -1,0 +1,5 @@
+com\example\prets\model\Pret.class
+com\example\prets\service\PretsServiceEJB.class
+com\example\comptecourant\JAXRSConfig.class
+com\example\prets\controller\PretsController.class
+com\example\prets\repository\PretsRepository.class
